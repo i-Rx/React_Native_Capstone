@@ -78,7 +78,7 @@ Built with Expo and React Native libraries.
 ## Build instructions
 - clone the repo
 ```
-git clone https://github.com/flngsquirrl/LittleLemonOnboarding.git
+git clone https://github.com/i-Rx/React_Native_Capstone.git
 ```
 - install dependencies
 ```
